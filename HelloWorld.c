@@ -21,7 +21,8 @@
 
 #include <stdio.h>
 
-int main(void) {
+int main(void) 
+{
 	
 	printf("Welcome to the World of C/C++. This is a Hello World Program.\n\n");
 	printf("This project has been started to help starters learn a language.\n");
