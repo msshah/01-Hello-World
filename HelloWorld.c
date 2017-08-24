@@ -6,9 +6,9 @@
   * ACCESS LEVEL	: PUBLIC
   *
   * DESCRIPTION 	: This project has been started to help some of my friends learn a language.
-  *					  	My aim is to write programs in at least two languages C/C++ and JAVA.
+  *		  	  My aim is to write programs in at least two languages C/C++ and JAVA.
   *
-  *	ABOUT PROGRAM 	: THIS IS A HELLO WORLD PROGRAM WRITTEN IN C. THIS PROGRAM USES PRINTF TO OUTPUT STRING				
+  * ABOUT PROGRAM 	: THIS IS A HELLO WORLD PROGRAM WRITTEN IN C. THIS PROGRAM USES PRINTF TO OUTPUT STRING				
   *
   * COMPILING & RUN : On Windows, Use Turbo C/C++ OR Microsoft Visual C++ Environment
   *					  On Mac OS and Linux Systems, use the following command using Terminal
