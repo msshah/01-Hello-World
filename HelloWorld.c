@@ -1,6 +1,6 @@
 /**
   * WRITTEN BY 		: MIAN SAFYAN SHAH
-  *	CONTACT		: safyanshah@live.com
+  * CONTACT		: safyanshah@live.com
   *
   * LEVEL 		: BEGINNER
   * ACCESS LEVEL	: PUBLIC
