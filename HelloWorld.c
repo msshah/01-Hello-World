@@ -29,7 +29,7 @@ int main(void)
 	
 	printf("Welcome to the World of C/C++. This is a Hello World Program.\n\n");
 	printf("This project has been started to help starters learn a language.\n");
-	printf("I will upload a single program in other languages too just to demonstrate\nthe working of same programs in other languages.\n");
+	printf("I will upload a single program in other languages too just to demonstrate\nthe working of same programs.\n");
 	
 	printf("\n\nStay Tuned\n\n");
 	printf("Thanks.\n");
